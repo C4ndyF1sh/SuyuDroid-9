@@ -21,17 +21,14 @@
 ## Full Changelog Alpha-V.1 ##
 [Alpha](https://github.com/XForYouX/Suyu-Android-9/releases/tag/Alpha-V.1)
 
-## Full Changelog NCE-V.33 ##
-[NCE-V.33](https://github.com/XForYouX/Suyu-Android-9/releases/tag/NCE-V.33)
+## Full Changelog NCE-V.34 ##
+[NCE-V.34](https://github.com/XForYouX/Suyu-Android-9/releases/tag/NCE-V.34)
 
 ## Suyu Official Release  ( OLD )
 [Suyu Official Release ( OLD )](https://gitlab.com/suyu-emu/suyu-releases/-/tree/master)
 
 ## Suyu Official Release ( New )
 [Suyu Official Release ( New )](https://git.suyu.dev/suyu/suyu/releases/)
-
-## Discord Suyu Official Emulator ( You Can Get Some Information From Discord Suyu Official Developer )
-[Discord Suyu Offcial](https://discord.gg/suyu)
 
 ## Website Suyu Official ( You Can Get Some Information From Website Suyu Official )
 [Website Suyu Official](https://suyu.dev)
