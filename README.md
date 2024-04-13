@@ -31,7 +31,7 @@
 [Suyu Official Release ( New )](https://git.suyu.dev/suyu/suyu/releases/)
 
 ## Chat Matrix Suyu Official Emulator ( You Can Get Some Information From Chat Matrix Suyu Official Developer )
-[Chat Matrix Suyu Offcial](https://chat.suyi.dev)
+[Chat Matrix Suyu Offcial](https://chat.suyu.dev)
 
 ## Website Suyu Official ( You Can Get Some Information From Website Suyu Official )
 [Website Suyu Official](https://suyu.dev)
