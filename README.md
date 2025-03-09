@@ -16,7 +16,9 @@
 | ## Im Focus Build Suyu For Android 10-14 |
 | ## Am I Famous? No, I'm just a user who likes to share goodness, even though not from an economic perspective, but from the perspective of what I can |
 ~~~
-
+# FAQ:
+*Why does a game crash when trying to run it?*
+**Try enabling Graphic-Debugging (Settings>Advanced Settings>Debug), if this didn't fixed the crashing set CPU Backend to Dynarmic (Settings>Advanced Settings>Debug)**
 
 ## Full Changelog Alpha-V.1 ##
 [Alpha](https://github.com/XForYouX/Suyu-Android-9/releases/tag/Alpha-V.1)
